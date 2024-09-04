@@ -16,7 +16,6 @@ This Python script records every key you press on your keyboard and saves it in 
 
 ## Requirements
 To run this script, you need to have Python and the `pynput` library installed. Install `pynput` using this command:
-
 ```In bash---> pip install pynput ```
 
 ## How to Run the Script
@@ -25,7 +24,6 @@ To run this script, you need to have Python and the `pynput` library installed. 
 
 2. **Run the Script:**
    - Run the script by typing:
-
    ```In bash---> python keylogger.py```
 
 3. **View Logged Keystrokes:**
